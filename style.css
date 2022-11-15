@@ -1,0 +1,21 @@
+.navbutton button{
+    margin-right: 20px;
+}
+.main-banner {
+    align-items: center;
+    background-image: url(slider.jpg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    min-height: 450px;
+}
+.slider{
+}
+.banner-content{
+    margin: 0 auto;
+}
+.category{
+    margin: 0 auto;
+    width: 60%;
+}
